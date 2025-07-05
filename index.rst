@@ -9,7 +9,7 @@ Need to set up your Brother printer? Visit the official Brother setup page at ht
 
 .. image:: Getbutton.png
    :alt: Brother Printer Drivers
-   :target: https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlci1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://brotherprintersoftware.godaddysites.com/
 
 
 .. raw:: html
